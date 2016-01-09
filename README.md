@@ -1,3 +1,5 @@
+** CURRENTLY NOT ACTIVE **
+
 ## Requirements:
 This script assumes an application model, in which there is one document/javascript app per window. The core of this app is the index.html, which links also this filesaver script.  
 The main reason for this is the implementation of the open and new method.
